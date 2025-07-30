@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-web-game-42425-42436/tic_tac_toe_frontend"
+}
